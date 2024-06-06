@@ -1,15 +1,19 @@
 Business Intelligence Dashboard Report
+
 Features
+
 Interactive Dashboards: Create visually appealing and interactive dashboards that provide a comprehensive view of business metrics.
 Data Integration: Integrate data from multiple sources including databases, CSV files, and APIs.
 Real-time Data: Implement real-time data updates to keep your dashboards up-to-date.
 Custom Visualizations: Use custom visualizations to highlight key data points and trends.
 User-friendly Interface: Design dashboards with a user-friendly interface to ensure ease of use for all stakeholders.
 
+
 <img width="1568" alt="Screenshot 2024-06-06 at 4 32 24 PM" src="https://github.com/benjilo/Business_Intelligent_Projects/assets/1903981/41cb1cd6-46d4-43b6-a2ce-2a54c50d6d7a">
 
 Overview
 Welcome to the Business Intelligence Dashboard Report repository! This repository contains the code, data, and documentation for creating a comprehensive BI dashboard using popular Business Intelligence (BI) tools. The goal of this project is to demonstrate how to effectively visualize data, uncover insights, and make data-driven decisions.
+
 <img width="1569" alt="Screenshot 2024-06-06 at 4 34 26 PM" src="https://github.com/benjilo/Business_Intelligent_Projects/assets/1903981/7f5de042-ee38-4e1e-8d1a-1af4ab4647be">
 ![Screenshot 2024-06-06 at 4 37 20 PM](https://github.com/benjilo/Business_Intelligent_Projects/assets/1903981/3247f670-59a9-4d6a-b8aa-5902fe1f9262)
 
